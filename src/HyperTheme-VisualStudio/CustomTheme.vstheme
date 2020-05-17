@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="HyperTheme-VisualStudio (4)" GUID="{dd9b31d5-d977-4ac8-92be-8f4a203d1017}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="HyperTheme-VisualStudio" GUID="{18501e36-c82f-49f7-935a-b79c2fe3a4df}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -919,7 +919,7 @@
       </Color>
       <Color Name="Type">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4B6EB1" />
+        <Foreground Type="CT_RAW" Source="FF1DC121" />
       </Color>
       <Color Name="C/C++ User Keywords">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -1251,15 +1251,15 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4B6EB1" />
+        <Foreground Type="CT_RAW" Source="FF1DC121" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4B6EB1" />
+        <Foreground Type="CT_RAW" Source="FF50E3C2" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4B6EB1" />
+        <Foreground Type="CT_RAW" Source="FF50E3C2" />
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
